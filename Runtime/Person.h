@@ -39,5 +39,4 @@ typedef NS_ENUM(NSInteger,TSex)
 
 -(void)work;
 
-
 @end

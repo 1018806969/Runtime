@@ -55,8 +55,6 @@
     //9.关联对象
     [self associateObj];
     
-    
-    
 }
 -(void)associateObj
 {
